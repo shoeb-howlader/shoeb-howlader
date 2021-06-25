@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Welcome to my github profile** 
+**Welcome to my github profile.** 
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
